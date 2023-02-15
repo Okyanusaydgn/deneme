@@ -7,3 +7,14 @@
 *.img
 *.png
 logo.jpg
+/img
+*.jpg
+
+# videos
+*.mp4
+
+#log
+*.log
+
+#password 
+password.txt
